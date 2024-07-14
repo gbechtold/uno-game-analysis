@@ -28,7 +28,7 @@ This Python script simulates multiple games of Uno and analyzes the results to p
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/uno-game-analysis.git
+git clone https://github.com/gbechtold/uno-game-analysis.git
 Copy2. Install the required packages:
 pip install -r requirements.txt
 
